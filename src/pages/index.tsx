@@ -7,7 +7,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description='Kaifuny 的博客'>
+      description='Kaifuny 的笔记本'>
       <main className='kf-container'>
         
       </main>
