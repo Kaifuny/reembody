@@ -9,7 +9,9 @@ export default function Home(): JSX.Element {
       title={`${siteConfig.title}`}
       description='Kaifuny 的笔记本'>
       <main className='kf-container'>
-        
+        <>
+          <h1></h1>
+        </>
       </main>
     </Layout>
   );

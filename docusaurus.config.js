@@ -44,9 +44,6 @@ const config = {
         alt: "Kaifuny 的笔记本",
         src: "img/docusaurus.png",
       },
-      items: [
-        { to: "/blog", label: "博客", position: "right" },
-      ],
     },
     prism: {
       theme: lightCodeTheme,
